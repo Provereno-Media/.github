@@ -39,7 +39,7 @@ The platform functions both as a dynamic fact-checking hub and as an encyclopedi
 - **Fact-checks** — Verified, multi-point ratings using a nuanced color-label system (not a simple True/False binary).
 - **Provereno Media School** — Practice-oriented training for journalists, civil society activists, researchers, and media professionals in OSINT, GeoInt, data verification, and digital forensics.
 - **Media literacy content** — Free manuals, guides, and educational materials under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Partnerships** — Regular fact-checking segment *«Fake of the Week»* on Dozhd TV and collaborations with major independent outlets.
+- **Partnerships** — Regular fact-checking segment *«Fake of the Week»* on TV Rain and collaborations with Russian exiled independent outlets and European media.
 
 ---
 
