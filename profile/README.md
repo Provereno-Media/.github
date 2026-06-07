@@ -58,7 +58,7 @@ All content is published under **Creative Commons Attribution 4.0**, allowing fr
 
 ## Support Us
 
-Provereno is a **non-profit, reader-supported** media outlet. We do not have state funding and rely on our community.
+Provereno is a **non-profit, reader-supported** media outlet. We do not have state funding and rely on our services, donors, and our community.
 
 > **Support independent Russian-language fact-checking:**
 >
