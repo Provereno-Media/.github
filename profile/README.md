@@ -63,6 +63,7 @@ Provereno is a **non-profit, reader-supported** media outlet. We do not have sta
 > **Support independent Russian-language fact-checking:**
 > 
 > 👉 [Stripe](https://buy.stripe.com/cN229pfEm1xj0I8fYY)
+> 
 > 👉 [Patreon](https://www.patreon.com/c/provereno)
 
 By supporting us on Patreon, you get access to three exclusive courses, monthly webinars, and direct communication with the editorial team.
