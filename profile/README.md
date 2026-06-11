@@ -8,6 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-provereno.media-blue?style=flat-square)](https://provereno.media)
 [![Patreon](https://img.shields.io/badge/Support%20us-Patreon-orange?style=flat-square&logo=patreon)](https://www.patreon.com/c/provereno)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat-square&logo=telegram)](https://t.me/provereno)
+[![Stripe](https://img.shields.io/badge/Website-provereno.media-blue?style=flat-square)](https://buy.stripe.com/cN229pfEm1xj0I8fYY)
 
 </div>
 
